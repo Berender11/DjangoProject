@@ -17,6 +17,3 @@ A basic web-based survey application built using Django. Users can submit respon
 - SQLite (default DB)
 - HTML/CSS (basic styling)
 - Deployed on PythonAnywhere
-
-## 📂 Project Structure
-
